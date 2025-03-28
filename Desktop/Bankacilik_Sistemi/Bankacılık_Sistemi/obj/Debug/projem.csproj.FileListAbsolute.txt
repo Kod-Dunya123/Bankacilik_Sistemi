@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\projem\projem\bin\Debug\projem.exe.config
+C:\Users\LENOVO\source\repos\projem\projem\bin\Debug\projem.exe
+C:\Users\LENOVO\source\repos\projem\projem\bin\Debug\projem.pdb
+C:\Users\LENOVO\source\repos\projem\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\projem\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\projem\projem\obj\Debug\projem.exe
+C:\Users\LENOVO\source\repos\projem\projem\obj\Debug\projem.pdb
